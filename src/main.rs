@@ -17,6 +17,7 @@ enum Commands {
     },
 }
 
+// testing shit
 fn main() -> anyhow::Result<()> {
     let cli = Cli::parse();
 
